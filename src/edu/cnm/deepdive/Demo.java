@@ -12,4 +12,5 @@ public class Demo {
     System.out.println(truncated);
     System.out.println(rounded);
   }
+
 }
